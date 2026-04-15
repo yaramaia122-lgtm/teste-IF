@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🚀 Refatorador de Código com IA")
+st.title("Refatorador de Código com IA")
 
 code_input = st.text_area("Cole seu código sujo aqui:")
 
